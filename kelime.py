@@ -3,7 +3,7 @@ ekleme = input("liste giriniz: ")
 
 kelimeler = ekleme.split()
 
-                                                        list = []
+list = []                                                        list = []
 for kelime in kelimeler:
     list.append(kelime)
 
